@@ -61,7 +61,7 @@
 // | SHFT |     |  0  |  1  |  2  |  3  |   |     |     |     |     |     |  BAK  |
 //                    | GUI | BAK | ENT |   | SPC |     | ALT |
 //                        bindings = <
-   &kp TAB   &trans  &trans  &kp N7   &kp N8  &kp N9    &trans   &trans   &trans &trans    &rans &kp BSPC
+   &kp TAB   &trans  &trans  &kp N7   &kp N8  &kp N9    &trans   &trans   &trans &trans    &trans &kp BSPC
    &trans    &trans  &trans  &kp N4   &kp N5  &kp N6    &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans &trans
    &kp LSHFT &trans  &kp N0  &kp N1   &kp N2  &kp N3    &trans   &trans   &trans &trans    &trans &tog 3
                              &kp LGUI &tog 3  &kp RET   &kp SPACE &trans   &kp RALT
